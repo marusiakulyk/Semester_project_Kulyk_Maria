@@ -1,0 +1,6 @@
+forecastio
+api_key = "7a9f9b37ebe0fddb2aec86405a972ff6"
+world weather online
+api_key = "c3d80330a1704d2d9be110529180304" premium trial
+apixu
+api_key = "79c89a7b53c24ffb8de111947180304"
